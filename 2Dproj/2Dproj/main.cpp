@@ -41,8 +41,8 @@ const int VIEWPORT_X = 0,
           VIEWPORT_HEIGHT = WINDOW_HEIGHT;
 */
 
-const char PLAYER_SPRITE1_FILEPATH[] = "/Users/tahmidasif/Desktop/2Dproj/2Dproj/lioness.png";
-const char PLAYER_SPRITE2_FILEPATH[] = "/Users/tahmidasif/Desktop/2Dproj/2Dproj/cub.png";
+const char PLAYER_SPRITE1_FILEPATH[] = "/Users/tahmidasif/Desktop/Project1Simple2D/2Dproj/2Dproj/lioness.png";
+const char PLAYER_SPRITE2_FILEPATH[] = "/Users/tahmidasif/Desktop/Project1Simple2D/2Dproj/2Dproj/cub.png";
 const char V_SHADER_PATH[] = "shaders/vertex_textured.glsl",
            F_SHADER_PATH[] = "shaders/fragment_textured.glsl";
 
